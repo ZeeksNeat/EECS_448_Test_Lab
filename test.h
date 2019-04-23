@@ -13,6 +13,7 @@ class TestSuite
     void testRemoveBack();
     void testRemoveFront();
     void testOrdering();
+    void testSize();
 };
 
 #endif
